@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HabibUllah
-- 👀 I’m interested in coputer Science(Data science,Artificial intelligence,Machine Learning,Graphic desigining,,Digital Marketing)
+- 👀 I’m interested in computer Science(Data science,Artificial intelligence,Machine Learning,Graphic desigining,,Digital Marketing)
 - 🌱 I’m currently learning Artifical intelligence 
 - AI enthusiest
 - Data Scientist
