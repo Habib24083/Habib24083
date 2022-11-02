@@ -2,6 +2,7 @@
 - 👀 I’m interested in computer Science(Data science,Artificial intelligence,Machine Learning,Graphic desigining,,Digital Marketing)
 - 🌱 I’m currently learning Artifical intelligence 
 - AI enthusiest
+- Currently working at DeviQo Software Options (PVT) LTD.
 - Data Scientist
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Habib24083@gmail.com
